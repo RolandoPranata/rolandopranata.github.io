@@ -1,0 +1,32 @@
+﻿{
+	"version": 1549159054,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/ground_snow_broken-sheet0.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/gold_-sheet0.png",
+		"images/gold_-sheet1.png",
+		"images/gold_-sheet2.png",
+		"images/sprite-sheet0.png",
+		"images/gameover-sheet0.png",
+		"images/backgroundspace-sheet0.png",
+		"images/tiledbackground.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/fire2-sheet0.png",
+		"images/fire2-sheet1.png",
+		"images/springman_stand-sheet0.png",
+		"images/clouds_-sheet0.png",
+		"images/clouds_2-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
